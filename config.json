@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedender",
+        "uuid": 5022990,
+        "checksum": "itjbz"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
